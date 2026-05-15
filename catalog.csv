@@ -1,40 +1,40 @@
 isbn,doi,url,epc,title,author
-9780521356534,,,E28068940000402F0F81A8AD,,
-9780486809038,,,E28068940000402F0F8194AD,,
-9781598003024,,,E28068940000502F0F81ACAD,,
-9780387905181,,,E28068940000402F0F81C4AD,,
-9780387906881,,,E28068940000502F0F81C0AD,,
-9780387905082,,,E28068940000502F0F81B8AD,,
-9780387900537,,,E28068940000502F0F81B4AD,,
-9780387900537,,,E28068940000402F0F81B0AD,,
-0387900888,,,E28068940000402F0F81BCAD,,
-9780521356534,,,E28068940000502F0F81F0AD,,
-9780130609076,,,E28068940000402F0F81ECAD,,
-9780486450261,,,E28068940000502F0F81E8AD,,
-9780486462868,,,E28068940000502F0F81E4AD,,
-9780521061247,,,E28068940000402F0F81E0AD,,
-9780521061223,,,E28068940000402F0F81DCAD,,
-0521061199,,,E28068940000502F0F81D8AD,,
-9780226511818,,,E28068940000402F0F81D0AD,,
+9780521356534,,,E28068940000402F0F81A8AD,Introduction to higher order catagorical logic,J. Lambek and P.J. Scott
+9780486809038,,,E28068940000402F0F8194AD,Category Theory in Context,Emily Riehl
+9781598003024,,,E28068940000502F0F81ACAD,Meat Smoking And Smokehouse Design,Stanley Marianski
+9780387905181,,,E28068940000402F0F81C4AD,Algebra,Thomas W. Hungerford
+9780387906881,,,E28068940000502F0F81C0AD,"Cohomology of Groups (Graduate Texts in Mathematics, No. 87)",Kenneth S. Brown
+9780387905082,,,E28068940000502F0F81B8AD,Measure and category,John C. Oxtoby
+9780387900537,,,E28068940000502F0F81B4AD,Introduction to Lie algebras and representation theory,James E. Humphreys
+9780387900537,,,E28068940000402F0F81B0AD,Introduction to Lie algebras and representation theory,James E. Humphreys
+0387900888,,,E28068940000402F0F81BCAD,Measure theory,Paul R. Halmos
+9780521356534,,,E28068940000502F0F81F0AD,Introduction to higher order catagorical logic,J. Lambek and P.J. Scott
+9780130609076,,,E28068940000402F0F81ECAD,Modern Control Engineering (4th Edition),Katsuhiko Ogata
+9780486450261,,,E28068940000502F0F81E8AD,Topoi,Robert Goldblatt
+9780486462868,,,E28068940000502F0F81E4AD,Toposes and Local Set Theories,John L. Bell
+9780521061247,,,E28068940000402F0F81E0AD,Handbook of Categorical Algebra,Francis Borceux
+9780521061223,,,E28068940000402F0F81DCAD,Handbook of Categorical Algebra,Francis Borceux
+0521061199,,,E28068940000502F0F81D8AD,Handbook of Categorical Algebra (Encyclopedia of Mathematics and its Applications),Francis Borceux
+9780226511818,,,E28068940000402F0F81D0AD,Simplicial Objects in Algebraic Topology (Chicago Lectures in Mathematics),J. P. May
 9780444558275,,,E28068940000502F0F81CCAD,,
-9780914098324,,,E28068940000402F0F81C8AD,,
-,10.48550/arxiv.1308.0729,,E28068940000502F0F81D4AD,,
+9780914098324,,,E28068940000402F0F81C8AD,Physics for mathematicians,Michael Spivak
+,10.48550/arxiv.1308.0729,,E28068940000502F0F81D4AD,Homotopy Type Theory: Univalent Foundations of Mathematics,"Program, The Univalent Foundations"
 ,,,E28068940000502F0F81A0AD,Larry's headphones,
 ,,https://www.cs.tufts.edu/~nr/cs257/archive/stephen-dolan/thesis.pdf,E28068940000402F0F81F4AD,Algebraic Subtyping,Stephen Dolan
 ,,https://scholarship.claremont.edu/hmc_theses/243/,E28068940000402F0F81F8AD,A Coherent Proof of Mac Lane's Coherence Theorem,Luke Trujillo
-,10.48550/arXiv.1308.0729,,E28068940000502F0F81D4AD,Homotopy Type Theory: Univalent Foundations of Mathematics,
-0521422612,,,E28068940000402F0F8234AD,Locally presentable and accessible categories,
-9780387984032,,,E28068940000402F0F8238AD,Categories for the Working Mathematician,
-9780486640709,,,E28068940000502F0F823CAD,The Theory of Spinors,
-9780521005517,,,E28068940000402F0F8240AD,Clifford algebras and spinors,
-9780817682828,,,E28068940000502F0F8248AD,A New Approach to Differential Geometry using Clifford's Geometric Algebra,
+,10.48550/arXiv.1308.0729,,E28068940000502F0F81D4AD,Homotopy Type Theory: Univalent Foundations of Mathematics,"Program, The Univalent Foundations"
+0521422612,,,E28068940000402F0F8234AD,Locally presentable and accessible categories,"Jiří Adámek, Jiří Rosicky"
+9780387984032,,,E28068940000402F0F8238AD,Categories for the Working Mathematician,Saunders Mac Lane
+9780486640709,,,E28068940000502F0F823CAD,The Theory of Spinors,Elie Cartan
+9780521005517,,,E28068940000402F0F8240AD,Clifford algebras and spinors,Pertti Lounesto
+9780817682828,,,E28068940000502F0F8248AD,A New Approach to Differential Geometry using Clifford's Geometric Algebra,by John Snygg
 9787510029639,,,E28068940000502F0F825CAD,,
-9783764377908,,,E28068940000502F0F8260AD,"Quaternions, Clifford Algebras and Relativistic Physics",
-9781107422193,,,E28068940000402F0F8264AD,Clifford algebras,
-9780821848159,,,E28068940000402F0F824CAD,Manifolds and differential geometry,
-9780387968902,,,E28068940000502F0F8250AD,Mathematical methods of classical mechanics,
-9780521436137,,,E28068940000402F0F8254AD,Reflection groups and coxeter groups,
-9780521118026,,,E28068940000402F0F8258AD,Clifford Algebras and the Classical Groups,
-9780199237180,,,E28068940000502F0F8228AD,Introduction To Category Theory,
-9781107044241,,,E28068940000402F0F822CAD,Basic Category Theory,
-9781108837989,,,E28068940000502F0F8230AD,Elements of ∞-Category Theory,
+9783764377908,,,E28068940000502F0F8260AD,"Quaternions, Clifford Algebras and Relativistic Physics",Patrick R. Girard
+9781107422193,,,E28068940000402F0F8264AD,Clifford algebras,D.J.H. Garling
+9780821848159,,,E28068940000402F0F824CAD,Manifolds and differential geometry,Jeffrey Lee
+9780387968902,,,E28068940000502F0F8250AD,Mathematical methods of classical mechanics,V.I. Arnold
+9780521436137,,,E28068940000402F0F8254AD,Reflection groups and coxeter groups,James E. Humphreys
+9780521118026,,,E28068940000402F0F8258AD,Clifford Algebras and the Classical Groups,Ian R. Porteous
+9780199237180,,,E28068940000502F0F8228AD,Introduction To Category Theory,Steve Awodey
+9781107044241,,,E28068940000402F0F822CAD,Basic Category Theory,Tom Leinster
+9781108837989,,,E28068940000502F0F8230AD,Elements of ∞-Category Theory,Emily Riehl and Dominic Verity
