@@ -15,7 +15,7 @@ FIELDNAMES = ["isbn", "doi", "url", "epc", "title", "author"]
 def fetch(url):
     try:
         req = urllib.request.Request(url, headers={"User-Agent": "cardex/1.0 (larry@elder-gods.org)"})
-        with urllib.request.urlopen(req, timeout=10) as r:
+        with urllib.request.urlopen(req) as r:
             return json.loads(r.read())
     except Exception as e:
         print(f"  error fetching {url}: {e}", file=sys.stderr)
