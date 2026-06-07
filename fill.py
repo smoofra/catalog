@@ -9,7 +9,7 @@ import urllib.parse
 import urllib.request
 
 CSV_FILE = "catalog.csv"
-FIELDNAMES = ["isbn", "doi", "url", "epc", "title", "author"]
+FIELDNAMES = ["isbn", "lccn", "doi", "url", "epc", "title", "author"]
 
 
 def fetch(url):
@@ -29,11 +29,7 @@ def doi_ra(prefix):
     return None
 
 
-def lookup_isbn(isbn):
-    data = fetch(f"https://openlibrary.org/api/books?bibkeys=ISBN:{isbn}&format=json&jscmd=data")
-    if not data:
-        return None, None
-    entry = data.get(f"ISBN:{isbn}")
+def _parse_ol_entry(entry):
     if not entry:
         return None, None
     title = entry.get("title")
@@ -41,6 +37,20 @@ def lookup_isbn(isbn):
     authors = entry.get("authors", [])
     author = by_statement or "; ".join(a["name"] for a in authors if "name" in a) or None
     return title, author
+
+
+def lookup_isbn(isbn):
+    data = fetch(f"https://openlibrary.org/api/books?bibkeys=ISBN:{isbn}&format=json&jscmd=data")
+    if not data:
+        return None, None
+    return _parse_ol_entry(data.get(f"ISBN:{isbn}"))
+
+
+def lookup_lccn(lccn):
+    data = fetch(f"https://openlibrary.org/api/books?bibkeys=LCCN:{lccn}&format=json&jscmd=data")
+    if not data:
+        return None, None
+    return _parse_ol_entry(data.get(f"LCCN:{lccn}"))
 
 
 def lookup_crossref(doi):
@@ -95,6 +105,7 @@ def main():
 
     for i, row in enumerate(rows):
         isbn = row.get("isbn", "").strip()
+        lccn = row.get("lccn", "").strip()
         doi = row.get("doi", "").strip()
         title = row.get("title", "").strip()
         author = row.get("author", "").strip()
@@ -104,10 +115,10 @@ def main():
 
         if not (need_title or need_author):
             continue
-        if not isbn and not doi:
+        if not isbn and not lccn and not doi:
             continue
 
-        label = isbn or doi
+        label = isbn or lccn or doi
         print(f"[{i+1}/{total}] {label}")
 
         new_title, new_author = None, None
@@ -115,6 +126,14 @@ def main():
         if isbn:
             new_title, new_author = lookup_isbn(isbn)
             time.sleep(0.5)
+
+        if lccn and (not new_title or not new_author):
+            lt, la = lookup_lccn(lccn)
+            time.sleep(0.5)
+            if not new_title:
+                new_title = lt
+            if not new_author:
+                new_author = la
 
         if doi and (not new_title or not new_author):
             dt, da = lookup_doi(doi)
