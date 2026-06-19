@@ -179,99 +179,99 @@ isbn,lccn,doi,url,epc,title,author
 9780387709130,,,,E28068940000402F0EE5C909,Functional Analysis Sobolev Spaces And Partial Differential Equations,Haim Brezis
 9780521389914,,,,E28068940000402F0EE5C509,Fourier analysis,T.W. Korner
 9780387962030,,,,E28068940000502F0EE5C109,The arithmetic of elliptic curves,Joseph H. Silverman
-9780345339683,,,,E28068940000502F0EE5D909,The Hobbit,
-9780262031417,,,,E28068940000402F0EE5DD09,Introduction to Algorithms,
-9781558605961,,,,E28068940000402F0EE5E109,Computer Architecture,
-9781119260578,,,,E28068940000502F0EE5E509,Wireless Internet of Things,
-9780262510875,,,,E28068940000502F0EE5E909,Structure and Interpretation of Computer Programs,
-9780201549799,,,,E28068940000402F0EE5ED09,The design and implementation of the 4.4BSD operating system,
-9780439784542,,,,E28068940000502F0EE5F109,Harry Potter and the Half-Blood Prince,
-9780201633467,,,,E28068940000402F0EE5F509,"TCP/IP Illustrated, Volume 1",
-0136375391,,,,E28068940000402F0EE5F909,Operating system design,
-9780122861604,,,,E28068940000502F0EE5FD09,An Introduction to Ray tracing (The Morgan Kaufmann Series in Computer Graphics),
-9780121782702,,,,E28068940000502F0EE60109,Radiosity and realistic image synthesis,
-9780471152439,,,,E28068940000402F0EE60509,A simple approach to digital signal processing,
-9780262581325,,,,E28068940000402F0EE60909,Simply Scheme,
-9780130284464,,,,E28068940000502F0EE60D09,A Practical Introduction to Data Structures and Algorithm Analysis,
-9780201657883,,,,E28068940000402F0EE61109,Programming Pearls (2nd Edition),
-9780596514983,,,,E28068940000502F0EE61509,Real World Haskell,
-9780201529838,,,,E28068940000502F0EE61909,LATEX,
-9780132624787,,,,E28068940000402F0EE61D09,Elements of the theory of computation,
-9780130279613,,,,E28068940000402F0EE62109,Theory of Computing,
-0064407675,,,,E28068940000502F0EE62509,A Series of Unfortunate Events,
-9780064407687,,,,E28068940000502F0EE62909,A Series of Unfortunate Events,
-9780137219520,,,,E28068940000402F0EE62D09,Implementing functional languages,
-9781558604421,,,,E28068940000502F0EE63109,Programming Language Pragmatics,
-9780898711875,,,,E28068940000402F0EE63509,Data structures and network algorithms,
-9780201436648,,,,E28068940000502F0EE63D09,Principles of Computer Architecture,
-9780131103627,,,,E28068940000502F0EE63D0A,The C Programming Language,
-9780982522707,,,,E28068940000402F0EE6390A,Practical programming for strength training,
-9780123849885,,,,E28068940000402F0EE6350A,Gpu Computing Gems,
-9781558603202,,,,E28068940000502F0EE6310A,Advanced compiler design and implementation,
-9781695978553,,,,E28068940000402F0EE62D0A,UNIX,
-9780821839676,,,,E28068940000502F0EE6290A,Bourbaki,
-9780486291390,,,,E28068940000502F0EE6250A,Sundials,
-0064407667,,,,E28068940000402F0EE6210A,A Series of Unfortunate Events,
-9783642005404,,,,E28068940000402F0EE61D0A,Geometry and Physics,
-9780141371412,,,,E28068940000502F0EE6190A,Going Solo,
-0672303191,,,,E28068940000502F0EE6150A,The Waite Group's new C Primer Plus,
-9780120884780,,,,E28068940000402F0EE6110A,Engineering a Compiler,
-9780133390094,,,,E28068940000502F0EE60D0A,Systems Performance,
-9780321563842,,,,E28068940000402F0EE6090A,The C++ programming language,
-9780596517748,,,,E28068940000402F0EE6050A,JavaScript: The Good Parts,
-9780262610742,,,,E28068940000502F0EE6010A,The art of the metaobject protocol,
-9781593271787,,,,E28068940000502F0EE5FD0A,The IDA Pro Book,
-9780262541855,,,,E28068940000402F0EE5F90A,Theoretical Neuroscience,
-9780199568413,,,,E28068940000402F0EE5F50A,Fundamentals of computational neuroscience,
-9780521560672,,,,E28068940000502F0EE5F10A,Communication complexity,
-9783540615453,,,,E28068940000402F0EE5ED0A,The NURBS book,
-9780262194402,,,,E28068940000502F0EE5E90A,"Causation, Prediction, and Search, Second Edition (Adaptive Computation and Machine Learning)",
-9780123743701,,,,E28068940000502F0EE5E50A,A wavelet tour of signal processing,
-9780130618146,,,,E28068940000402F0EE5E10A,Introduction to cryptography,
-9781580890151,,,,E28068940000402F0EE5DD0A,"Twinkle, twinkle little star",
-9780062303851,,,,E28068940000502F0EE5D90A,Pete the Cat's Train Trip,
-9780131814882,,,,E28068940000502F0EE5D50A,Introductory combinatorics,
-9780262514200,,,,E28068940000402F0EE5D10A,Dynamical Systems In Neuroscience The Geometry Of Excitability And Bursting,
-9781584502814,,,,E28068940000502F0EE5CD0A,Digital Signal Processing Fundamentals (Electrical and Computer Engineering Series),
-9780201615869,,,,E28068940000402F0EE5C90A,The Practice of Programming (Addison-Wesley Professional Computing Series),
-9780817640613,,,,E28068940000402F0EE5C50A,Wavelets made easy,
-9780123285539,,,,E28068940000502F0EE5C10A,Pearls in graph theory,
-9780521809269,,,,E28068940000402F0EE5BD0A,The art of electronics,
-0521370957,,,,E28068940000502F0EE5B90A,The art of electronics,
-9780199573264,,,,E28068940000502F0EE5B50A,The Conceptual Framework Of Quantum Field Theory,
-0720422000,,,,E28068940000402F0EE5B10A,Set Theory,
-,,10.48550/arXiv.0908.1886,,E28068940000502F0EE5AD0A,"Fibre Bundles, Jet Manifolds and Lagrangian Theory. Lectures for Theoreticians",
-9780486616308,,,,E28068940000502F0EE5890A,Axiomatic set theory,
-9780198534464,,,,E28068940000402F0EE58D0A,Visual complex analysis,
-9780486402581,,,,E28068940000502F0EE5910A,Combinatorial optimization,
-,73086564,,,E28068940000402F0EE5950A,Studies in model theory,
-9780387987606,,,,E28068940000402F0EE5990A,Model Theory,
-9780486466248,,,,E28068940000502F0EE59D0A,The axiom of choice,
-9781575860084,,,,E28068940000502F0EE5A10A,Vicious Circles (Center for the Study of Language and Information - Lecture Notes),
-9783540888666,,,,E28068940000402F0EE5A50A,The higher infinite,
-9780521701464,,,,E28068940000402F0EE5A90A,Computability and Logic,
-0387946772,,,,E28068940000502F0EE55D0A,Chaos,
-0691118892,,,,E28068940000402F0EE5650A,"Computers, Rigidity, and Moduli",
-9780486417400,,,,E28068940000502F0EE56D0A,Riemann's Zeta Function,
-9780521646529,,,,E28068940000402F0EE5690A,Games of No Chance (Mathematical Sciences Research Institute Publications),
-9781568812823,,,,E28068940000402F0EE5710A,"Model Theory of Fields, Second Edition (Lecture Notes in Logic) (Lecture Notes in Logic)",
-9780486414485,,,,E28068940000502F0EE5750A,Calculus of variations,
-1568811195,,,,E28068940000502F0EE5790A,Algebraic Number Theory and Fermat's Last Theorem,
-0486450171,,,,E28068940000402F0EE57D0A,Building models by games,
-9780387986371,,,,E28068940000502F0EE5850A,The geometry of schemes,
-3540648631,,,,E28068940000502F0EE53D0A,Model theory and algebraic geometry,
-9783540648635,,,,E28068940000502F0EE5450A,Model theory and algebraic geometry,
-9780521587136,,,,E28068940000402F0EE5410A,A shorter model theory,
-9781568811352,,,,E28068940000502F0EE5490A,Mathematical logic,
-9780814703250,,,,E28068940000402F0EE54D0A,Godel's Proof,
-0262680521,,,,E28068940000502F0EE5510A,Theory of recursive functions and effective computability,
-3540152997,,,,E28068940000402F0F85B48C,Recursively Enumerable Sets and Degrees: A Study of Computable Functions and Computably Generated Sets (Perspectives in Mathematical Logic),
-9780821826850,,,,E28068940000402F0EE5590A,Stable groups,
-9781568812632,,,,E28068940000402F0EE51D0A,Reverse mathematics 2001,
-9780387940946,,,,E28068940000402F0EE5210A,The joy of sets,
-9780486469218,,,,E28068940000502F0EE5250A,Set theory and the continuum hypotheses,
-0198531869,,,,E28068940000502F0EE5290A,An introduction to stability theory,
-9780691044903,,,,E28068940000402F0EE52D0A,Non-standard analysis,
-0198534450,,,,E28068940000502F0EE5310A,Groups of finite Morley rank,
-0387941029,,,,E28068940000402F0EE5350A,Topology of Surfaces (Undergraduate Texts in Mathematics),
-9781568811277,,,,E28068940000402F0EE5390A,On numbers and games,
+9780345339683,,,,E28068940000502F0EE5D909,The Hobbit,edited by Christopher Tolkien
+9780262031417,,,,E28068940000402F0EE5DD09,Introduction to Algorithms,"Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest"
+9781558605961,,,,E28068940000402F0EE5E109,Computer Architecture,"John L. Hennessy, David A. Patterson, with contributions by David Goldberg, Krste Asanovic"
+9781119260578,,,,E28068940000502F0EE5E509,Wireless Internet of Things,Daniel Chew
+9780262510875,,,,E28068940000502F0EE5E909,Structure and Interpretation of Computer Programs,Harold Abelson; Gerald Jay Sussman; Julie Sussman
+9780201549799,,,,E28068940000402F0EE5ED09,The design and implementation of the 4.4BSD operating system,Marshall Kirk McKusick; Keith Bostic; Michael J. Karels; John S. Quarterman
+9780439784542,,,,E28068940000502F0EE5F109,Harry Potter and the Half-Blood Prince,J. K. Rowling
+9780201633467,,,,E28068940000402F0EE5F509,"TCP/IP Illustrated, Volume 1",W. Richard Stevens
+0136375391,,,,E28068940000402F0EE5F909,Operating system design,Douglas Comer
+9780122861604,,,,E28068940000502F0EE5FD09,An Introduction to Ray tracing (The Morgan Kaufmann Series in Computer Graphics),edited by Andrew S. Glassner
+9780121782702,,,,E28068940000502F0EE60109,Radiosity and realistic image synthesis,"Michael F. Cohen, John R. Wallace ; with a chapter by Pat Hanrahan and a foreword by Donald P. Greenberg]"
+9780471152439,,,,E28068940000402F0EE60509,A simple approach to digital signal processing,Craig Marven and Gillian Ewers
+9780262581325,,,,E28068940000402F0EE60909,Simply Scheme,Brian Harvey
+9780130284464,,,,E28068940000502F0EE60D09,A Practical Introduction to Data Structures and Algorithm Analysis,Clifford A. Shaffer
+9780201657883,,,,E28068940000402F0EE61109,Programming Pearls (2nd Edition),Jon Bentley
+9780596514983,,,,E28068940000502F0EE61509,Real World Haskell,Bryan O'Sullivan; John Goerzen; Don Stewart
+9780201529838,,,,E28068940000502F0EE61909,LATEX,Leslie Lamport ; illustrations by Duane Bibby
+9780132624787,,,,E28068940000402F0EE61D09,Elements of the theory of computation,"Harry R. Lewis, Christos H. Papadimitriou"
+9780130279613,,,,E28068940000402F0EE62109,Theory of Computing,"Efim Kinber, Carl Smith"
+0064407675,,,,E28068940000502F0EE62509,A Series of Unfortunate Events,Lemony Snicket; Brett Helquist; Michael Kupperman; Nestor Busquets
+9780064407687,,,,E28068940000502F0EE62909,A Series of Unfortunate Events,by LEMONY SNICKET
+9780137219520,,,,E28068940000402F0EE62D09,Implementing functional languages,"Simon L. Peyton Jones,  David R. Lester"
+9781558604421,,,,E28068940000502F0EE63109,Programming Language Pragmatics,Michael L. Scott
+9780898711875,,,,E28068940000402F0EE63509,Data structures and network algorithms,Robert Endre Tarjan
+9780201436648,,,,E28068940000502F0EE63D09,Principles of Computer Architecture,Miles Murdocca; Vincent P. Heuring
+9780131103627,,,,E28068940000502F0EE63D0A,The C Programming Language,"Brian W. Kernighan, Dennis M. Ritchie"
+9780982522707,,,,E28068940000402F0EE6390A,Practical programming for strength training,Mark Rippetoe & Lon Kilgore with Stef Bradford
+9780123849885,,,,E28068940000402F0EE6350A,Gpu Computing Gems,Wen-mei Hwu
+9781558603202,,,,E28068940000502F0EE6310A,Advanced compiler design and implementation,Steven S. Muchnick
+9781695978553,,,,E28068940000402F0EE62D0A,UNIX,Brian W. Kernighan
+9780821839676,,,,E28068940000502F0EE6290A,Bourbaki,Maurice Mashaal ; translated by Anna Pierrehumbert
+9780486291390,,,,E28068940000502F0EE6250A,Sundials,Rene R.J. Rohr
+0064407667,,,,E28068940000402F0EE6210A,A Series of Unfortunate Events,by Lemony Snicket ; illustrations by Brett Helquist
+9783642005404,,,,E28068940000402F0EE61D0A,Geometry and Physics,by Jürgen Jost
+9780141371412,,,,E28068940000502F0EE6190A,Going Solo,Roald Dahl
+0672303191,,,,E28068940000502F0EE6150A,The Waite Group's new C Primer Plus,Mitchell Waite and Stephen Prata
+9780120884780,,,,E28068940000402F0EE6110A,Engineering a Compiler,"Keith D. Cooper, Linda Torczon"
+9780133390094,,,,E28068940000502F0EE60D0A,Systems Performance,Brendan Gregg
+9780321563842,,,,E28068940000402F0EE6090A,The C++ programming language,Bjarne Stroustrup
+9780596517748,,,,E28068940000402F0EE6050A,JavaScript: The Good Parts,Douglas Crockford; Ke luo ke fu de; Yan xue kun; Douglas Crockford
+9780262610742,,,,E28068940000502F0EE6010A,The art of the metaobject protocol,"Gregor Kiczales, Jim des Rivières, and Daniel G. Bobrow"
+9781593271787,,,,E28068940000502F0EE5FD0A,The IDA Pro Book,Chris Eagle
+9780262541855,,,,E28068940000402F0EE5F90A,Theoretical Neuroscience,Peter Dayan and L.F.  Abbott
+9780199568413,,,,E28068940000402F0EE5F50A,Fundamentals of computational neuroscience,Thomas P. Trappenberg
+9780521560672,,,,E28068940000502F0EE5F10A,Communication complexity,"Eyal Kushilevitz, Noam Nisan"
+9783540615453,,,,E28068940000402F0EE5ED0A,The NURBS book,"Les Piegl, Wayne Tiller"
+9780262194402,,,,E28068940000502F0EE5E90A,"Causation, Prediction, and Search, Second Edition (Adaptive Computation and Machine Learning)",Peter Spirtes
+9780123743701,,,,E28068940000502F0EE5E50A,A wavelet tour of signal processing,Stephane Mallat
+9780130618146,,,,E28068940000402F0EE5E10A,Introduction to cryptography,"Wade Trappe, Lawrence C. Washington"
+9781580890151,,,,E28068940000402F0EE5DD0A,"Twinkle, twinkle little star",as told and illustrated by Iza Trapani
+9780062303851,,,,E28068940000502F0EE5D90A,Pete the Cat's Train Trip,Dean James; James Dean
+9780131814882,,,,E28068940000502F0EE5D50A,Introductory combinatorics,Richard A. Brualdi
+9780262514200,,,,E28068940000402F0EE5D10A,Dynamical Systems In Neuroscience The Geometry Of Excitability And Bursting,Eugene M. Izhikevich
+9781584502814,,,,E28068940000502F0EE5CD0A,Digital Signal Processing Fundamentals (Electrical and Computer Engineering Series),Ashfaq A. Khan
+9780201615869,,,,E28068940000402F0EE5C90A,The Practice of Programming (Addison-Wesley Professional Computing Series),Brian W. Kernighan
+9780817640613,,,,E28068940000402F0EE5C50A,Wavelets made easy,Yves Nievergelt
+9780123285539,,,,E28068940000502F0EE5C10A,Pearls in graph theory,"Nora Hartsfield, Gerhard Ringel"
+9780521809269,,,,E28068940000402F0EE5BD0A,The art of electronics,Paul Horowitz; Winfield Hill
+0521370957,,,,E28068940000502F0EE5B90A,The art of electronics,Paul Horowitz; Winfield Hill
+9780199573264,,,,E28068940000502F0EE5B50A,The Conceptual Framework Of Quantum Field Theory,Anthony Duncan
+0720422000,,,,E28068940000402F0EE5B10A,Set Theory,Frank R. Drake; A. Heyting; H.J. Keisler; A. Mostowski
+,,10.48550/arXiv.0908.1886,,E28068940000502F0EE5AD0A,"Fibre Bundles, Jet Manifolds and Lagrangian Theory. Lectures for Theoreticians","Sardanashvily, G."
+9780486616308,,,,E28068940000502F0EE5890A,Axiomatic set theory,by Patrick Suppes
+9780198534464,,,,E28068940000402F0EE58D0A,Visual complex analysis,Tristan Needham
+9780486402581,,,,E28068940000502F0EE5910A,Combinatorial optimization,"Christos H. Papadimitriou, Kenneth Steiglitz"
+,73086564,,,E28068940000402F0EE5950A,Studies in model theory,"M.D. Morley, editor"
+9780387987606,,,,E28068940000402F0EE5990A,Model Theory,David Marker
+9780486466248,,,,E28068940000502F0EE59D0A,The axiom of choice,Thomas J. Jech
+9781575860084,,,,E28068940000502F0EE5A10A,Vicious Circles (Center for the Study of Language and Information - Lecture Notes),"Barwise, Jon.; Lawrence S. Moss"
+9783540888666,,,,E28068940000402F0EE5A50A,The higher infinite,Akihiro Kanamori
+9780521701464,,,,E28068940000402F0EE5A90A,Computability and Logic,George S. Boolos; John P. Burgess; Richard C. Jeffrey
+0387946772,,,,E28068940000502F0EE55D0A,Chaos,Kathleen T. Alligood
+0691118892,,,,E28068940000402F0EE5650A,"Computers, Rigidity, and Moduli",Shmuel Weinberger
+9780486417400,,,,E28068940000502F0EE56D0A,Riemann's Zeta Function,Harold M. Edwards
+9780521646529,,,,E28068940000402F0EE5690A,Games of No Chance (Mathematical Sciences Research Institute Publications),Richard J. Nowakowski
+9781568812823,,,,E28068940000402F0EE5710A,"Model Theory of Fields, Second Edition (Lecture Notes in Logic) (Lecture Notes in Logic)","D. Marker, M. Messmer, A. Pillay"
+9780486414485,,,,E28068940000502F0EE5750A,Calculus of variations,"I.M. Gelfand, S.V. Fomin ; translated and edited by Richard A. Silverman"
+1568811195,,,,E28068940000502F0EE5790A,Algebraic Number Theory and Fermat's Last Theorem,"Ian Stewart, David Tall"
+0486450171,,,,E28068940000402F0EE57D0A,Building models by games,Wilfrid Hodges
+9780387986371,,,,E28068940000502F0EE5850A,The geometry of schemes,"David Eisenbud, Joe Harris"
+3540648631,,,,E28068940000502F0EE53D0A,Model theory and algebraic geometry,Elisabeth Bouscaren (ed.)
+9783540648635,,,,E28068940000502F0EE5450A,Model theory and algebraic geometry,Elisabeth Bouscaren (ed.)
+9780521587136,,,,E28068940000402F0EE5410A,A shorter model theory,Wilfrid Hodges
+9781568811352,,,,E28068940000502F0EE5490A,Mathematical logic,by Joseph R. Shoenfield
+9780814703250,,,,E28068940000402F0EE54D0A,Godel's Proof,Ernest Nagel; James Roy Newman
+0262680521,,,,E28068940000502F0EE5510A,Theory of recursive functions and effective computability,"Hartley Rogers, Jr"
+3540152997,,,,E28068940000402F0F85B48C,Recursively Enumerable Sets and Degrees: A Study of Computable Functions and Computably Generated Sets (Perspectives in Mathematical Logic),Robert I. Soare
+9780821826850,,,,E28068940000402F0EE5590A,Stable groups,Bruno Poizat
+9781568812632,,,,E28068940000402F0EE51D0A,Reverse mathematics 2001,edited by Stephen G. Simpson
+9780387940946,,,,E28068940000402F0EE5210A,The joy of sets,Keith Devlin
+9780486469218,,,,E28068940000502F0EE5250A,Set theory and the continuum hypotheses,Paul J. Cohen
+0198531869,,,,E28068940000502F0EE5290A,An introduction to stability theory,by Anand Pillay
+9780691044903,,,,E28068940000402F0EE52D0A,Non-standard analysis,Abraham Robinson
+0198534450,,,,E28068940000502F0EE5310A,Groups of finite Morley rank,Alexandre Borovik and Ali Nesin
+0387941029,,,,E28068940000402F0EE5350A,Topology of Surfaces (Undergraduate Texts in Mathematics),L. Christine Kinsey
+9781568811277,,,,E28068940000402F0EE5390A,On numbers and games,J.H. Conway
