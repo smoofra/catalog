@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# /// script
+# requires-python = ">=3.8"
+# dependencies = ["isbnlib"]
+# ///
 """Fill in missing title/author fields in catalog.csv using Open Library, Crossref, and DataCite."""
 
 import csv
@@ -7,6 +11,8 @@ import sys
 import time
 import urllib.parse
 import urllib.request
+
+import isbnlib
 
 CSV_FILE = "catalog.csv"
 FIELDNAMES = ["isbn", "lccn", "doi", "url", "epc", "title", "author"]
@@ -40,6 +46,7 @@ def _parse_ol_entry(entry):
 
 
 def lookup_isbn(isbn):
+    isbn = isbnlib.canonical(isbn)
     data = fetch(f"https://openlibrary.org/api/books?bibkeys=ISBN:{isbn}&format=json&jscmd=data")
     if not data:
         return None, None
@@ -113,9 +120,16 @@ def main():
         need_title = not title
         need_author = not author
 
-        if not (need_title or need_author):
-            continue
         if not isbn and not lccn and not doi:
+            continue
+
+        if isbn:
+            isbn2 = isbnlib.mask(isbn)
+            if isbn2 != isbn:
+                row["isbn"] = isbn2
+                changed += 1
+
+        if not (need_title or need_author):
             continue
 
         label = isbn or lccn or doi
